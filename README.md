@@ -7,7 +7,7 @@ $ /opt/homebrew/bin/x-macos-pasteboard
 {"change":9446,"types":{"public.utf8-plain-text":"JCAvb3B0L2hvbWVicmV3L2Jpbi94LW1hY29zLXBhc3RlYm9hcmQKeyJ0eXBlcyI6eyJwdWJsaWMudXRmOC1wbGFpbi10ZXh0IjoiTDI5d2RDOW9iMjFsWW5KbGR5OWlhVzR2ZUMxdFlXTnZjeTF3WVhOMFpXSnZZWEprIn0sImNoYW5nZSI6OTQ0NSwic291cmNlIjoiY29tLm1pdGNoZWxsaC5naG9zdHR5In0="},"source":"com.mitchellh.ghostty"}
 ```
 
-Intended to be combined with [`xs`](https://github.com/cablehead/xs) as a generator.
+Intended to be combined with [`xs`](https://github.com/cablehead/xs) as a [generator](https://github.com/cablehead/xs/tree/main/examples/x-macos-pasteboard).
 
 ## Install
 
